@@ -37,15 +37,23 @@ The repository is intended to serve as a structured knowledge base for future in
 
 ```text
 knowledge/
-    analytics/
-    architecture/
-    cloud/
-    databases/
-    ai/
-    programming/
-    sql-patterns/
-    troubleshooting/
-    lessons-learned/
-    best-practices/
+├── analytics/
+    └── sap/
+        ├── cds/
+        ├── datasphere/
+        ├── sac/
+        └── hana/
+├── architecture/
+├── ai/
+├── cloud/
+├── databases/
+├── programming/
+├── sql-patterns/
+├── troubleshooting/
+├── best-practices/
+├── lessons-learned/
+├── project-experiences/
+├── tools/
+└── research/
 
 templates/
